@@ -49,14 +49,6 @@ ExpenseWallet/
 ### Dashboard
 ![Dashboard](screenshots/dashboard%20page.jpg)
 
-### Add Train Page
-![Add Train Page](screenshots/add%20page.jpg)
-
-### Schedule Page
-![Schedule Page](screenshots/schedule%20page.jpg)
-
-### Book Ticket Page
-![Book Ticket Page](screenshots/book%20ticket%20page.jpg)
 
 ## 👩‍💻 Author
 
