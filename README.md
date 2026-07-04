@@ -3,6 +3,13 @@
 A Full Stack Web Application to track daily expenses, manage income, and maintain personal wallet balance efficiently.
 
 ---
+## 🔗 Live Demo
+[https://your-project.vercel.app](https://theerthanavelusamy1324-hash.github.io/ExpenseWalletManagementSystem/)
+
+## 💻 Source Code
+[https://github.com/your-username/ZippyEatsProject](https://github.com/theerthanavelusamy1324-hash/ExpenseWalletManagementSystem)
+
+---
 
 ## 🚀 Features
 
